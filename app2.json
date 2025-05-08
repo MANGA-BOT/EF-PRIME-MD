@@ -1,0 +1,100 @@
+{
+  "name": "EF-PRIME-MD",
+  "description": "A bot powered by Optimus prime theme known as ef-prime",
+  "logo": "https://files.catbox.moe/hc9hh3.jpg",
+  "keywords": ["EF-PRIME-MD"],
+  "repository": "https://github.com/efkidgamerdev/EF-PRIME-MD",
+  "stack": "container",
+  "env": { 
+      "SESSION_ID": {
+      "description": "EF-PRIME;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0l5Wk53SVN5cmJXbUg3ZEJoK05SVTdpZ2ZuenYwc0FSQ3R0VFo5MTBXRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY1V5VTRWRjlwT2RVWmxRaC9Ca2RMVlZHa3p5YWorZWRkck5RY0NNR3kwOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwSWY2YlRwWUY4T3d4eWhWdEpVM0sxZ2lhcDlVaGdvNlEzUEgxZWZkMFdJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI5UUVYc0dCS1pMSkxZZFBUNWtNMFV0MWhSbUVockdYMDJlQllBMGhKOURnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNOdGtCK05jOVNhemZrV0hvc3NLTjdWMUNlR1M2WUJJVlVUZHcrMkQ3bms9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im80ZExZL0NvN1FBelZHemVpWks4dVVLZnQwZFpmYlRlcmRUSUpJUHhyelU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUU9SeVNrMnNqczZNTXBXaE9nZE5ONkpaV1hXL2V4US8zRnd4cVZPZUMwQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWVI5dE5JZHNSRFc0QjIySG5VYUNlejNTaDFTYVN5cVZxOCtvU0d2bDYxMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjlIQ1hNU3hUUldUdDRON1B0bURyb0tBZ1g2eUtKUUgyQnZ6OUdGcWx4MjJBYXNxL0tTWmhTVHJIZnlzdGtPaFFmMnk5bE9sS1l4NitqSnlCWWVtUkRBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NjYsImFkdlNlY3JldEtleSI6ImtWb2wvRjVLWHhmYnhOUFMwUVNocUFKdVdpNjJ0ZkNSTW94UlBONDNPWGM9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM3Njk1MTQwNDE5QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkU1NEE4RjVCODc0MDhBMDE3Q0M1QjhBODBDMDdGQjQ1In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDY3MDk5NDh9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IkdaaURYSEM3Um9Db09od240UW1xcnciLCJwaG9uZUlkIjoiMTNjNjQ3NjYtZjQ3OS00YWNhLTg2YzQtODI4MjQ3NjVhYmUyIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjEwNGk4dTVsRnVDNDJ4ZStGTEhocWs5L01Pcz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrOXlvcU5BaHp5TFRxQytBeHJaeGlrUUdhaW89In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiRlFGWFo3UUoiLCJtZSI6eyJpZCI6IjIzNzY5NTE0MDQxOTo2MUBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiIuIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNS1k0SmNFRUtQYjhzQUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ3YStZVXdOakIvVzJMVllwaWxad2VjcDFVd0UydkhQemFYdWxRbWFIQ1RnPSIsImFjY291bnRTaWduYXR1cmUiOiJHN2lQbCtPZU4venhiZzU5VlRETWpNYlZKaUpNSlJFVVZCNG1zMWZLeUtJbzhvZHN6WFZ1TlRHMWxCeW1PbmN0Q2FHVTVQNTBGZWJNWlV5NURTS0tEZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoibURkWGZNSlhGamgwcnRSU0M5NUtPd0hwdkZBUzlDZytTbzZEM3liMG9pOGdVSTBucnFpLzJEeDZ4NFpjMDNUNU4xWkozSEJOMFROdFM0Zk92Wm0xQ2c9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzc2OTUxNDA0MTk6NjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY0d2bUZNRFl3ZjF0aTFXS1lwV2NIbktkVk1CTnJ4ejgybDdwVUptaHdrNCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NjcwOTkzNywibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFKR0EifQ==",
+      "required": true,
+      "value": ""
+    },
+    "MODE": {
+      "description": "mode public or self",
+      "required": true,
+      "value": "public"
+    },
+    "ANTI_DELETE": {
+      "description": "make it true for use anti delete",
+      "required": true,
+      "value": "true"
+    },
+  "AUTO_STATUS_SEEN": {
+      "description": "make it true if you want bot to view status",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_STATUS_REPLY": {
+      "description": "make it true if you want to send message after seen status",
+      "required": false,
+      "value": "false"
+    },
+    "STATUS_READ_MSG": {
+      "description": "set your status reply message",
+      "required": false,
+      "value": "*Status seen by EF-PRIME-MD *"
+    },
+    "OWNER_NAME": {
+      "description": "set your status reply message",
+      "required": false,
+      "value": "Frank kaumba dev"
+    },
+    "OWNER_NUMBER": {
+      "description": "set your status reply message",
+      "required": false,
+      "value": "26599********"
+    },
+    "AUTO_READ": {
+      "description": "make it true if you want bot to read message",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_TYPING": {
+      "description": "make it true if you want bot to show typing",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_RECORDING": {
+      "description": "make it true if you want bot to show recording audio",
+      "required": false,
+      "value": "false"
+    },
+    "ALWAYS_ONLINE": {
+      "description": "make it true if you want bot to show always online",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_BLOCK": {
+      "description": "make it true if you want bot to auto block only 265 numbers",
+      "required": false,
+      "value": "false"
+    },
+    "REJECT_CALL": {
+      "description": "make it true if you want to reject call",
+      "required": false,
+      "value": "false"
+    },
+    "PREFIX": {
+      "description": "Your Bot Prefix default (.)",
+      "required": false,
+      "value": "."
+    }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
+
